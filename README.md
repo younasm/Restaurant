@@ -9,7 +9,9 @@
 First, run the development server:
 
 ```bash
-npm run dev
+npm install 
+
+npm start
 # or
 yarn dev
 ```
