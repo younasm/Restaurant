@@ -4,9 +4,15 @@
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
-## Stay up to date with new projects
+## Getting Started
 
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
 
 ## Introduction
 
